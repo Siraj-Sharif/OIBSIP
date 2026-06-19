@@ -12,4 +12,5 @@ A Python application that calculates Body Mass Index (BMI) based on user's heigh
 - Python
 
 ## Author
-Your Name
+Siraj Sharif
+
